@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "20170609144315-48cc7325e7038aa9bbd4780a53d7e81d-tablet.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
